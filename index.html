@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workspace Explorer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Ayush's Workspace</h1>
+    </header>
+    <div class="container">
+        <aside id="tree" class="tree"></aside>
+        <main id="viewer" class="viewer">
+            <div class="viewer-header">
+                <div class="title">File Viewer <span id="filename"></span></div>
+                <button id="copyBtn" class="copy-btn" title="Copy file contents">Copy</button>
+            </div>
+            <pre id="content">Select a file to view</pre>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,97 @@
+{
+  "items": [
+    { "name": "index.html", "type": "file", "path": "index.html" },
+    { "name": "script.js", "type": "file", "path": "script.js" },
+    { "name": "style.css", "type": "file", "path": "style.css" },
+    { "name": "Anthropic", "type": "folder", "children": [
+      { "name": "Claude Code 2.0.txt", "type": "file", "path": "Anthropic/Claude Code 2.0.txt" },
+      { "name": "Sonnet 4.5 Prompt.txt", "type": "file", "path": "Anthropic/Sonnet 4.5 Prompt.txt" },
+      { "name": "Claude Code", "type": "folder", "children": [
+        { "name": "Prompt.txt", "type": "file", "path": "Anthropic/Claude Code/Prompt.txt" },
+        { "name": "Tools.json", "type": "file", "path": "Anthropic/Claude Code/Tools.json" }
+      ] }
+    ] },
+    { "name": "Augment", "type": "folder", "children": [
+      { "name": "claude-4-sonnet-agent-prompts.txt", "type": "file", "path": "Augment/claude-4-sonnet-agent-prompts.txt" },
+      { "name": "claude-4-sonnet-tools.json", "type": "file", "path": "Augment/claude-4-sonnet-tools.json" },
+      { "name": "gpt-5-agent-prompts.txt", "type": "file", "path": "Augment/gpt-5-agent-prompts.txt" },
+      { "name": "gpt-5-tools.json", "type": "file", "path": "Augment/gpt-5-tools.json" }
+    ] },
+    { "name": "Codebuddy", "type": "folder", "children": [
+      { "name": "Chat Prompt.txt", "type": "file", "path": "Codebuddy/Chat Prompt.txt" },
+      { "name": "Craft Prompt.txt", "type": "file", "path": "Codebuddy/Craft Prompt.txt" }
+    ] },
+    { "name": "Comet", "type": "folder", "children": [
+      { "name": "System Prompt.txt", "type": "file", "path": "Comet/System Prompt.txt" }
+    ] },
+    { "name": "Cursor", "type": "folder", "children": [
+      { "name": "Agent CLI Prompt 2025-08-07.txt", "type": "file", "path": "Cursor/Agent CLI Prompt 2025-08-07.txt" },
+      { "name": "Agent Prompt 2.0.txt", "type": "file", "path": "Cursor/Agent Prompt 2.0.txt" },
+      { "name": "Agent Prompt 2025-09-03.txt", "type": "file", "path": "Cursor/Agent Prompt 2025-09-03.txt" },
+      { "name": "Agent Prompt v1.0.txt", "type": "file", "path": "Cursor/Agent Prompt v1.0.txt" },
+      { "name": "Agent Prompt v1.2.txt", "type": "file", "path": "Cursor/Agent Prompt v1.2.txt" },
+      { "name": "Agent Tools v1.0.json", "type": "file", "path": "Cursor/Agent Tools v1.0.json" },
+      { "name": "Chat Prompt.txt", "type": "file", "path": "Cursor/Chat Prompt.txt" }
+    ] },
+    { "name": "Devin", "type": "folder", "children": [
+      { "name": "DeepWiki Prompt.txt", "type": "file", "path": "Devin/DeepWiki Prompt.txt" },
+      { "name": "Prompt.txt", "type": "file", "path": "Devin/Prompt.txt" }
+    ] },
+    { "name": "Google", "type": "folder", "children": [
+      { "name": "Antigravity", "type": "folder", "children": [
+        { "name": "initialprompt.txt", "type": "file", "path": "Google/Antigravity/initialprompt.txt" },
+        { "name": "model.txt", "type": "file", "path": "Google/Antigravity/model.txt" }
+      ] },
+      { "name": "Gemini", "type": "folder", "children": [
+        { "name": "AIstudio.txt", "type": "file", "path": "Google/Gemini/AIstudio.txt" }
+      ] }
+    ] },
+    { "name": "lovable", "type": "folder", "children": [
+      { "name": "Agent Prompt.txt", "type": "file", "path": "lovable/Agent Prompt.txt" },
+      { "name": "Agent Tools.json", "type": "file", "path": "lovable/Agent Tools.json" }
+    ] },
+    { "name": "Manus", "type": "folder", "children": [
+      { "name": "Agent loop.txt", "type": "file", "path": "Manus/Agent loop.txt" },
+      { "name": "Modules.txt", "type": "file", "path": "Manus/Modules.txt" },
+      { "name": "Prompt.txt", "type": "file", "path": "Manus/Prompt.txt" },
+      { "name": "tools.json", "type": "file", "path": "Manus/tools.json" }
+    ] },
+    { "name": "mcp server", "type": "folder", "children": [
+      { "name": "README.md", "type": "file", "path": "mcp server/README.md" }
+    ] },
+    { "name": "Notion", "type": "folder", "children": [
+      { "name": "Prompt.txt", "type": "file", "path": "Notion/Prompt.txt" },
+      { "name": "tools.json", "type": "file", "path": "Notion/tools.json" }
+    ] },
+    { "name": "Open source", "type": "folder", "children": [
+      { "name": "Bolt", "type": "folder", "children": [ { "name": "Prompt.txt", "type": "file", "path": "Open source/Bolt/Prompt.txt" } ] },
+      { "name": "Cline", "type": "folder", "children": [ { "name": "Prompt.txt", "type": "file", "path": "Open source/Cline/Prompt.txt" } ] },
+      { "name": "codex cli", "type": "folder", "children": [ { "name": "openai-codex-cli-system-prompt-20250820.txt", "type": "file", "path": "Open source/codex cli/openai-codex-cli-system-prompt-20250820.txt" }, { "name": "Prompt.txt", "type": "file", "path": "Open source/codex cli/Prompt.txt" } ] },
+      { "name": "gemini cli", "type": "folder", "children": [ { "name": "google-gemini-cli-system-prompt.txt", "type": "file", "path": "Open source/gemini cli/google-gemini-cli-system-prompt.txt" } ] },
+      { "name": "lumo", "type": "folder", "children": [ { "name": "Prompt.txt", "type": "file", "path": "Open source/lumo/Prompt.txt" } ] }
+    ] },
+    { "name": "Perplexity", "type": "folder", "children": [ { "name": "prompt.txt", "type": "file", "path": "Perplexity/prompt.txt" } ] },
+    { "name": "Replit", "type": "folder", "children": [ { "name": "Prompt.txt", "type": "file", "path": "Replit/Prompt.txt" }, { "name": "Tools.json", "type": "file", "path": "Replit/Tools.json" } ] },
+    { "name": "ui-design", "type": "folder", "children": [ { "name": "master-prompt.txt", "type": "file", "path": "ui-design/master-prompt.txt" } ] },
+    { "name": "v0 dev", "type": "folder", "children": [ { "name": "Prompt.txt", "type": "file", "path": "v0 dev/Prompt.txt" }, { "name": "Tools.json", "type": "file", "path": "v0 dev/Tools.json" } ] },
+    { "name": "vscode agent", "type": "folder", "children": [
+      { "name": "chat-titles.txt", "type": "file", "path": "vscode agent/chat-titles.txt" },
+      { "name": "claude-sonnet-4.txt", "type": "file", "path": "vscode agent/claude-sonnet-4.txt" },
+      { "name": "gemini-2.5-pro.txt", "type": "file", "path": "vscode agent/gemini-2.5-pro.txt" },
+      { "name": "gpt-4.1.txt", "type": "file", "path": "vscode agent/gpt-4.1.txt" },
+      { "name": "gpt-4o.txt", "type": "file", "path": "vscode agent/gpt-4o.txt" },
+      { "name": "gpt-5-mini.txt", "type": "file", "path": "vscode agent/gpt-5-mini.txt" },
+      { "name": "gpt-5.txt", "type": "file", "path": "vscode agent/gpt-5.txt" },
+      { "name": "nes-tab-completion.txt", "type": "file", "path": "vscode agent/nes-tab-completion.txt" },
+      { "name": "Prompt.txt", "type": "file", "path": "vscode agent/Prompt.txt" }
+    ] },
+    { "name": "Xcode", "type": "folder", "children": [
+      { "name": "DocumentAction.txt", "type": "file", "path": "Xcode/DocumentAction.txt" },
+      { "name": "ExplainAction.txt", "type": "file", "path": "Xcode/ExplainAction.txt" },
+      { "name": "MessageAction.txt", "type": "file", "path": "Xcode/MessageAction.txt" },
+      { "name": "PlaygroundAction.txt", "type": "file", "path": "Xcode/PlaygroundAction.txt" },
+      { "name": "PreviewAction.txt", "type": "file", "path": "Xcode/PreviewAction.txt" },
+      { "name": "System.txt", "type": "file", "path": "Xcode/System.txt" }
+    ] }
+  ]
+}
